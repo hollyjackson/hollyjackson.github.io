@@ -2,12 +2,16 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+title {
+    font-size: 3em;
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+}
 nav ul {
     font-family: 'Roboto', sans-serif;
     padding: 0px;
     list-style: none;
     text-align: right;
-    color: 
 }
 footer ul {
     font-family: 'Roboto', sans-serif;
