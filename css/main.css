@@ -29,6 +29,14 @@ a {
     color: #000;
     text-decoration: underline;
 }
+.header__title {
+    padding: 0px;
+    display: inline;
+    margin-left: 20px;
+    font-size: 3em;
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+}
 a:hover {
     text-decoration: none;
 }
