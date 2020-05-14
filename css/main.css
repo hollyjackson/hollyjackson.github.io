@@ -3,14 +3,14 @@ body {
     width: 70%;
 }
 nav ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Roboto', sans-serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
     text-align: right;
 }
 footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Roboto', sans-serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -35,7 +35,7 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Arial Black', 'Gadget', 'Sans-Serif';
+    font-family: 'Poppins', sans-serif;
     text-align: center;
 }
 p {
