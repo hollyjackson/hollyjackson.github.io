@@ -74,6 +74,10 @@ footer {
     }
 }
 
+img {
+    width: 75%;
+}
+
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
