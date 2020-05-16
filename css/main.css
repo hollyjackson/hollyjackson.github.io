@@ -23,6 +23,8 @@ nav ul li {
 }
 
 a {
+    font-size: 1.25em;
+    font-family: 'Roboto', sans-serif;
     color: #000;
     text-decoration: none;
 }
