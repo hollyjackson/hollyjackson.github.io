@@ -2,56 +2,52 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+
 title {
     font-size: 3em;
     font-family: 'Poppins', sans-serif;
     text-align: left;
 }
+
 nav ul {
     font-family: 'Roboto', sans-serif;
     padding: 0px;
     list-style: none;
     text-align: right;
 }
-footer ul {
-    font-family: 'Roboto', sans-serif;
-    padding: 0px;
-    list-style: none;
-    text-align: center;
-}
+
 nav ul li {
     display: inline;
     margin-right: 20px;
     text-align: right;
 }
+
 a {
     color: #000;
     text-decoration: none;
 }
-.active {
+
+nav ul li a.active {
     text-decoration: underline;
 }
-.header__title {
-    padding: 0px;
-    margin-left: 20px;
-    font-size: 1.25em;
-    font-family: 'Roboto', sans-serif;
-    text-align: left;
+
+.hover {
+    text-decoration: underline;
 }
-a:hover {
-    text-decoration: none;
-}
+
 h1 {
     font-size: 3em;
     font-family: 'Poppins', sans-serif;
     text-align: center;
 }
+
 p {
     font-size: 1.25em;
     font-family: 'Roboto', sans-serif;
     line-height: 1.4em;
     text-align: center;
 }
+
 footer {
     font-family: 'Roboto', sans-serif;
     border-top: 0px;
@@ -85,13 +81,4 @@ footer {
     margin-left: auto;
     margin-right: auto;
     width: 75%;
-  }
-
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
-}
-
-ul.posts li {
-    list-style: none;
 }
