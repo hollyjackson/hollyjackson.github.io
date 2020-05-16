@@ -3,13 +3,16 @@
 		<head>
 			<title>{{ page.title }}</title>
 			<meta name="viewport" content="width=device-width, initial-scale=1">
+			<!-- ICON -->
 			<link rel="icon" href="/images/icon.png">
+			<!-- CSS -->
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
+			<!-- FONTS -->
 			<link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
 			<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap" rel="stylesheet">
 		</head>
 		<body>
-			<header class="header">
+			<!--<header class="header">
 				<a class="header__title" href="/">Holly Jackson</a>
 				<nav>
 					<ul class="header_list">
@@ -18,7 +21,25 @@
 						<li><a href="/about">About</a></li>
 					</ul>
 				</nav>
-			</header>
+			</header>-->
+			<nav class="site-nav js-site-nav">
+				<div class="site-nav__width">
+					<a class="site-nav__logo-link" href="/">
+						<h1>Holly Jackson</h1>
+					</a>
+					<ul class="site-nav__links">
+								<li class="site-nav__link-item menu-item--collapsed">
+							<a href="/" class="site-nav__link js-nav-item menu-item--collapsed" data-drupal-link-system-path="node/11">Major Projects</a>
+						</li>
+						<li class="site-nav__link-item menu-item--collapsed">
+							<a href="/minor-projects" class="site-nav__link js-nav-item menu-item--collapsed" data-drupal-link-system-path="node/12">Minor Projects</a>
+						</li>
+						<li class="site-nav__link-item">
+							<a href="/about" class="site-nav__link js-nav-item" data-drupal-link-system-path="node/13">About</a>
+						</li>
+						</ul>
+				</div>
+			</nav>
 			<div class="container">
 			
 			{{ content }}
