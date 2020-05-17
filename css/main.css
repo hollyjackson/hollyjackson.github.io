@@ -333,14 +333,15 @@ img {
     font-size: 1.25em;
     font-family: 'Roboto', sans-serif;
     position: relative;
+    display: inline-block;
     border-bottom: 1px dotted black;
 }
 
 .tooltip .tooltiptext {
-    font-size: 1em;
+    font-size: 0.75em;
     font-family: 'Roboto', sans-serif;
     visibility: hidden;
-    width: 200px;
+    width: 100px;
     background-color: black;
     color: #fff;
     text-align: center;
@@ -350,7 +351,7 @@ img {
     z-index: 1;
     bottom: -870%;
     left: 50%;
-    margin-left: -100px;
+    margin-left: -50px;
 
     /* Fade in tooltip - takes 1 second to go from 0% to 100% opac: */
     opacity: 0;
