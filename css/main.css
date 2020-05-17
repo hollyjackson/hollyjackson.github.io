@@ -315,3 +315,12 @@ img {
 @media only screen and (max-width: 300px) {
     .prev, .next,.caption_text {font-size: 0.75em}
 }
+
+iframe {
+    width: 75%;
+}
+@media screen and (max-width: 600px) {
+    .iframe {
+        width: 100%;
+    }
+}
