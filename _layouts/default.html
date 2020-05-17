@@ -12,31 +12,17 @@
 			<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap" rel="stylesheet">
 		</head>
 		<body>
-			<!--<header class="header">
-				<a class="header__title" href="/">Holly Jackson</a>
-				<nav>
-					<ul class="header_list">
-						<li><a href="/" class="active">Major Projects</a></li>
-						<li><a href="/minor-projects">Minor Projects</a></li>
-						<li><a href="/about">About</a></li>
-					</ul>
-				</nav>
-			</header>-->
-			<nav>
-				<div class="site-nav">
-					<a href="/">Holly Jackson</a>
-					<ul>
-						<li><a href="/">Major Projects</a></li>
-						<li><a href="/minor-projects">Minor Projects</a></li>
-						<li><a href="/about">About</a></li>
-					</ul>
+			<div class="header">
+				<a href="#default" class="logo">CompanyLogo</a>
+				<div class="header-right">
+				  <a class="active" href="#home">Home</a>
+				  <a href="#contact">Contact</a>
+				  <a href="#about">About</a>
 				</div>
-			</nav>
+			</div>
 			<div class="container">
-			
-			{{ content }}
-			
-			</div><!-- /.container -->
+				{{ content }}
+			</div>
 			<footer>
 	    		<a href="mailto:hjackson@mit.edu">hjackson@mit.edu</a>
 			</footer>
