@@ -341,7 +341,7 @@ img {
     font-size: 0.75em;
     font-family: 'Roboto', sans-serif;
     visibility: hidden;
-    width: 100px;
+    width: 200px;
     background-color: black;
     color: #fff;
     text-align: center;
@@ -351,7 +351,7 @@ img {
     z-index: 1;
     bottom: -870%;
     left: 50%;
-    margin-left: -50px;
+    margin-left: -100px;
 
     /* Fade in tooltip - takes 1 second to go from 0% to 100% opac: */
     opacity: 0;
