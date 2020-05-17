@@ -338,6 +338,7 @@ img {
 .tooltip .tooltiptext {
     font-size: 0.75em;
     font-family: 'Roboto', sans-serif;
+    line-height: 1.4em;
     visibility: hidden;
     width: 200px;
     background-color: black;
@@ -347,7 +348,7 @@ img {
     padding: 5px 0;
     position: absolute;
     z-index: 1;
-    bottom: -700%;
+    bottom: -750%;
     left: 50%;
     margin-left: -100px;
 
