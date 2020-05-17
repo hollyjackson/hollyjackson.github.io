@@ -160,6 +160,7 @@ img {
 }
 
 .row_grid {
+    grid-template-columns: 25% auto;
     margin: 8px -16px;
 }
 
@@ -187,12 +188,12 @@ img {
 
 .column_grid_title {
     float: left;
-    width: 30%;
+    width: 25%;
 }
 
 .column_grid_text {
     float: left;
-    width: 70%;
+    width: 75%;
 }
 
 /* Clear floats after rows */ 
