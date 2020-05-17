@@ -123,8 +123,18 @@ img {
     height: auto;
 }
 
+.about_container {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 @media screen and (max-width: 600px) {
     .img {
+        width: 100%;
+    }
+    .about_container {
         width: 100%;
     }
 }
