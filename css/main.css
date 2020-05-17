@@ -330,8 +330,6 @@ img {
 }
 
 .tooltip {
-    font-size: 1.25em;
-    font-family: 'Roboto', sans-serif;
     position: relative;
     display: inline-block;
     border-bottom: 1px dotted black;
