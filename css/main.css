@@ -222,5 +222,5 @@ img {
 
 /* [3] Finally, transforming the image when container gets hovered */
 .img-hover-zoom:hover img {
-    transform: scale(1.25);
+    transform: scale(1.1);
 }
