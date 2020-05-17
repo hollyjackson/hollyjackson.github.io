@@ -4,7 +4,24 @@ title: "Computational Cardiology"
 menu: <a href="/">Major Projects</a><a href="/minor-projects">Minor Projects</a><a href="/about">About</a>
 ---
 
-<p>My eleven-year-old sister, Kate, was born with a heart condition which causes her to have a heart murmur.  Kate’s pediatrician first diagnosed her by carefully listening to her murmur several times.  Even though Kate’s pediatrician is a well-trained professional, diagnosing heart murmurs is subject to human error.  Most general practitioners aren’t able to determine the specific murmur type.  Even cardiologists determine the specific murmur type with only 25% accuracy by ear alone.  In 2015, I developed an algorithm to process stethoscope sounds and accurately detect the presence and type of a patient’s heart murmur.  My work improves the ease, reliability, and accuracy of murmur identification.  I developed and verified my algorithm in FreeMat, a free environment for engineering and scientific prototyping and data processing.  I tested the algorithm against seventy-one prerecorded heart sounds from public websites dedicated to ear-training medical professionals.  Many months of coding and debugging resulted in a program that identified and categorized heart murmurs by their timing and shape.  I was able to accurately distinguish heart murmurs from normal heartbeats.  I identified normal heartbeats with a 100% success rate and murmurs with a 95% success rate.  I categorized both systolic and diastolic murmurs with 70% accuracy.  The overall success rate of my algorithm at diagnosing the exact murmur from among the fourteen types in my sample data was 54%, double the accuracy of a trained cardiologist.  My algorithm could be developed into a portable device to provide a helpful initial diagnosis and give more background to a cardiologist receiving a patient referral.</p>
+<div class="row_grid">
+    <div class="column_grid">
+        <div class="content">
+            <h3 style="text-align:left">Summary.</h3>
+        </div>
+    </div>
+    <div class="column_grid">
+        <div class="content">
+            <p style="text-align:left">In my freshman year of high school, I developed an algorithm in FreeMat (basically free MATLAB - before I had the luxury of MIT paying for my software) to process stethoscope sounds and accurately detect the presence and type of a patient’s heart murmur.  The project was inspired by my younger sister Kate, who was born with a heart condition (a bicuspid aortic valve) which causes her to have a heart murmur.</p>
+            <p style="text-align:left">Simply, the algorithm took the envelope of a pre-recorded heartbeat and isolated the systolic and diastolic sections by finding the local maxima of the filtered envelope.  I diagnosed the heartbeat by convolving each section with simple geometric filters that matched profiles of common murmurs.  I tested the algorithm against seventy-one prerecorded heart sounds from public websites dedicated to ear-training medical professionals.  I identified normal heartbeats with a 100% success rate and murmurs with a 95% success rate. I categorized both systolic and diastolic murmurs with 70% accuracy.</p>
+            <p style="text-align:left">This project was a great first look into the basics of signal processing for me.</p>
+        </div>
+    </div>
+</div>
+
+<br><br>
+
+<p>Please excuse my rudimentary video production skills at age 14.  While the video is a bit ridiculous, I think the explanation still stands.</p>
 
 <br><br>
 
