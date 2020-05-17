@@ -6,7 +6,6 @@
 }  
 
 body {
-    margin: 0;
     font-family: 'Roboto', sans-serif;
     margin-top: 25px;
     margin-left: 40px;
@@ -115,7 +114,6 @@ footer {
 }
 
 img {
-    vertical-align: middle;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -251,6 +249,8 @@ img {
 }
 
 .mySlides {display: none}
+
+.slides {vertical-align: middle;}
 
 /* Slideshow container */
 .slideshow-container {
