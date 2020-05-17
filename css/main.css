@@ -93,9 +93,8 @@ h2 {
 }
 
 h3 {
-    font-weight: bold;
-    font-size: 3em;
-    font-family: 'Roboto', sans-serif;
+    font-size: 2em;
+    font-family: 'Poppins', sans-serif;
     line-height: 1.4em;
     text-align: left;
 }
@@ -282,11 +281,6 @@ img {
     border-radius: 3px 0 0 3px;
 }
 
-/* On hover, add a black background color with a little bit see-through */
-.prev:hover, .next:hover {
-    background-color: rgba(0,0,0,0.8);
-}
-
 /* Caption text */
 .caption_text {
     color: black;
@@ -298,22 +292,6 @@ img {
     width: 100%;
     text-align: center;
 }
-
-/* The dots/bullets/indicators */
-/* .dot {
-    cursor: pointer;
-    height: 15px;
-    width: 15px;
-    margin: 0 2px;
-    background-color: #bbb;
-    border-radius: 50%;
-    display: inline-block;
-    transition: background-color 0.6s ease;
-}
-
-.active, .dot:hover {
-    background-color: #717171;
-} */
 
 /* Fading animation */
 .fade {
