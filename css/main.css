@@ -53,7 +53,7 @@ body {
     float: right;
 }
 
-@media screen and (max-width: 775px) {
+@media screen and (max-width: 650px) {
     body {    
         margin-left: 5px;
         margin-right: 5px;
