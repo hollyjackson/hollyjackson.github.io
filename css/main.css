@@ -176,11 +176,13 @@ img {
 }
 
 .left {
+    float: left;
     width: 25%;
 }
 
 .right {
-    width: 75%;
+    float: left;
+    width: 70%;
 }
 
 /* Clear floats after rows */ 
