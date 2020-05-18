@@ -172,7 +172,7 @@ img {
 /* Create two equal columns that floats next to each other */
 .column_grid {
     float: left;
-    /*width: 50%;*/
+    width: 50%;
 }
 
 .left {
