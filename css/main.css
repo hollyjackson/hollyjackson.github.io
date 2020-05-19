@@ -146,17 +146,14 @@ img {
     }
 }
 
-.column_icon {
-    float: left;
-    width: 50%;
-    padding: 5px;
+.row_icon {
+    display: flex;
 }
 
-/* Clearfix (clear floats) */
-.row_icon::after {
-    content: "";
-    clear: both;
-    display: table;
+/* Create three equal columns that sits next to each other */
+.column_icon {
+    flex: 50%;
+    padding: 5px;
 }
 
 .row_grid {
