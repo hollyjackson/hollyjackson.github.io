@@ -49,6 +49,11 @@ body {
     color: black;
 }
 
+.header a.inactive {
+    text-decoration: none;
+    color: black;
+}
+
 .header-right {
     float: right;
 }
