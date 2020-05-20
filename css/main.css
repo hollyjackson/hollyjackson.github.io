@@ -49,7 +49,7 @@ body {
     color: black;
 }
 
-.header a.inactive {
+.inactive {
     text-decoration: none;
     color: black;
 }
