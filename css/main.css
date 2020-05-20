@@ -374,3 +374,16 @@ img {
     visibility: visible;
     opacity: 1;
 }
+
+.socialContainer {
+    text-align: center;
+    margin-top: 20px;
+}
+.socialContainer>a {
+    display: inline-block;
+}
+.social {
+    display: inline-block;
+    height: 60px;
+    margin: 0 10px;
+}
