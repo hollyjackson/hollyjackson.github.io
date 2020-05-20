@@ -113,7 +113,7 @@ footer {
     text-align: center;
 }
 
-img {
+.resizeable {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -129,7 +129,7 @@ img {
 }
 
 @media screen and (max-width: 750px) {
-    img {
+    .resizeable {
         width: 80%;
     }
     .about_container {
@@ -138,7 +138,7 @@ img {
 }
 
 @media screen and (max-width: 500px) {
-    img {
+    .resizeable {
         width: 100%;
     }
     .about_container {
@@ -385,5 +385,6 @@ img {
 .social {
     display: inline-block;
     height: 60px;
+    width: auto;
     margin: 0 10px;
 }
