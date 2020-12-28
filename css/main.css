@@ -111,6 +111,13 @@ p {
     text-align: center;
 }
 
+caption {
+    font-size: 0.75em;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.4em;
+    text-align: right;
+}
+
 footer {
     font-family: 'Roboto', sans-serif;
     border-top: 0px;
