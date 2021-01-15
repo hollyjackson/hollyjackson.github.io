@@ -1,0 +1,31 @@
+---
+layout: page
+title: "Sparsity-Based Mixed Mode Automatic Differentiation"
+menu: <a href="/">Major Projects</a><a href="/minor-projects">Minor Projects</a><a href="/about">About</a>
+footer: <a href="mailto:hjackson@mit.edu" target="_blank">hjackson@mit.edu</a>
+---
+
+
+<div class="row_grid">
+    <div class="column_grid left">
+        <div class="content">
+            <h3 style="text-align:left">Summary.</h3>
+        </div>
+    </div>
+    <div class="column_grid right">
+        <div class="content">
+            <p style="text-align:left;">In Fall 2020, I took MIT class 18.337 (<a class="active" href="https://github.com/mitmath/18337" target="_blank">Parallel Computing and Scientific Machine Learning</a>) taught by <a class="active" href="https://chrisrackauckas.com/" target="_blank">Dr. Chris Rackauckas</a>.  For the final project, I implemented and analyzed several automatic differentiation techniques for nonlinear nodal analysis in <a class="active" href="https://julialang.org/" target="_blank">Julia</a>.  Due to their grid-like construction, nodal systems often have sparse Jacobian matrices, and we can take advantage of this sparsity to accelerate their computation.  In my project, I implemented forward-mode and reverse-mode automatic differentiation to construct the Jacobian of a nodal system.  I implemented a matrix coloring scheme to accelerate sparse forward-mode automatic differentiation of the Jacobian of nodal systems.  In addition, I implement a combined sparse automatic differentiation technique to compute a Jacobian that is mostly sparse, with several dense rows.</p>
+        </div>
+    </div>
+    <div class="column_grid left">
+        <div class="content">
+            <h3 style="text-align:left">Report.</h3>
+        </div>
+    </div>
+    <div class="column_grid right">
+        <div class="content">
+            <p style="text-align:left;">My full final project report can be accessed <a class="active" href="/minor-projects/automatic-differentiation/18_337_Final_Project_HollyJackson.pdf" target="_blank">here</a>.</p>
+            <p style="text-align:left;">The accompanying script is posted on <a class="active" href="https://github.com/hollyjackson/AutomaticDifferentiation" target="_blank">Github</a>.</p>
+        </div>
+    </div>
+</div>
