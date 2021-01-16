@@ -116,6 +116,7 @@ caption {
     font-family: 'Roboto', sans-serif;
     line-height: 1.4em;
     text-align: right;
+    width: 100%;
 }
 
 footer {
