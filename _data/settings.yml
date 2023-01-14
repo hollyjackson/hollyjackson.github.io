@@ -14,8 +14,8 @@ menu__settings:
       url: '/'
     - title: 'Research'
       url: '/research-projects/'
-    - title: 'Class Projects'
-      url: '/class-projects/'
+    - title: 'Side Projects'
+      url: '/side-projects/'
     - title: 'Publications'
       url: '/publications/'
     - title: 'Press'
@@ -86,7 +86,6 @@ menu__settings:
 social:
 - {icon: "ion-md-mail", color: "#57ad68", label: Email, link: "mailto:hjackson@mit.edu"}
 - {icon: "ion-md-school", color: "#57ad68", label: Google Scholar, link: "https://scholar.google.com/citations?user=QnYHj40AAAAJ&hl=en"}
-- {icon: "ion-logo-twitter", color: "#57ad68", label: Twitter, link: "https://twitter.com/h_jackson_"}
 - {icon: "ion-logo-linkedin", color: "#57ad68", label: LinkedIn, link: "https://www.linkedin.com/in/holly-jackson-481005199/"}
 - {icon: "ion-logo-github", color: "#57ad68", label: Github, link: "https://github.com/hollyjackson"}
 
