@@ -29,7 +29,7 @@ The minimal stimulus voxel consisted of two different attachment mechanisms. At 
 The design is advantageous because of its genderless nodes, ability to correct for misalignment, and ability to lock in place with one simple movement. However, these minimal stimulus attachments give the voxel an orientation (a top/bottom vs. side) because two different types of connectors are used. Additionally, these attachments may not be robust enough since they are held together solely by friction.
 
 
-![Prototype]({{site.baseurl}}/images/robotic-locomotion/prototype.JPG)
+![Prototype]({{site.baseurl}}/images/robotic-locomotion/prototype.jpg)
 *Prototype of voxels with minimal stimulus attachments.*
 
 # Worm-Like Robot

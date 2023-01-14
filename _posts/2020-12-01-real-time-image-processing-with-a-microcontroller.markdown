@@ -21,7 +21,7 @@ My full final project report can be accessed [here](/files/6115FinalProject_HMJ.
 ![Project setup]({{site.baseurl}}/images/image-processing/setup.jpg)
 *Project setup. From left to right - Arduino camera, PSoC 5LP board, TFT screen.*
 
-![PSoC Creator schematic]({{site.baseurl}}/images/image-processing/creator_schematic.JPG)
+![PSoC Creator schematic]({{site.baseurl}}/images/image-processing/creator_schematic.jpg)
 *“Top Design” schematic of SPI interface for TFT screen, ADC for menu selection, and I2C component and dual-stage latching system for Arduino camera in PSoC Creator.*
 
 ![Timing diagram]({{site.baseurl}}/images/image-processing/timing_diagram.bmp)

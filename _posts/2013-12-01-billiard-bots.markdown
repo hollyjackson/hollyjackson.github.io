@@ -27,5 +27,5 @@ The results?  I'm now marginally better at pool.  And there are permanent scuffs
 ![Cut]({{site.baseurl}}/images/billiard-bots/cut.png)
 *A prediction of the effect of 7° cut angle.*
 
-![Robot code]({{site.baseurl}}/images/billiard-bots/robot_code.JPG)
+![Robot code]({{site.baseurl}}/images/billiard-bots/robot_code.jpg)
 *Simple code driving the robot to strike the object ball with the cue ball.*

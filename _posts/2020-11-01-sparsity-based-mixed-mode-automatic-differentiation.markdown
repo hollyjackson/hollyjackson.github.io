@@ -14,5 +14,5 @@ Due to their grid-like construction, nodal systems often have sparse Jacobian ma
 My full final project report can be accessed [here]({{site.basurl}}/files/18_337_Final_Project_HollyJackson.pdf).  The accompanying Julia script is posted on [Github](https://github.com/hollyjackson/AutomaticDifferentiation).
 
 
-![Bomber shirt]({{site.baseurl}}/images/matrix_coloring.JPG)
+![Bomber shirt]({{site.baseurl}}/images/matrix_coloring.jpg)
 *The Jacobian matrix for a simple system and its compressed representation.*

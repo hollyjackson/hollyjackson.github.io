@@ -20,7 +20,7 @@ This work is part of a wonderful interdisciplinary international collaboration o
 
 Check our our work in [Nature Communications](https://www.nature.com/articles/s41467-021-21326-w).  Or continue reading below to learn more about the exciting backstory of the project.
 
-![Reading a letter]({{site.baseurl}}/images/14_HollyJackson_reading_a_letter.JPG)
+![Reading a letter]({{site.baseurl}}/images/14_HollyJackson_reading_a_letter.jpg)
 
 For the past 20 years, [Jana Dambrogio](http://www.janadambrogio.com/) (the current MIT Thomas F. Peterson (1957) conservator) has pioneered the study of letterlocking.  Along with King’s college professor, [Dr. Daniel Starza Smith](https://www.kcl.ac.uk/people/dr-daniel-starza-smith), she has studied over 250,000 historical locked letters and produced the first systematization of letterlocking techniques.  These techniques — which can be as small as slits and tucks in paper — are often lost when a letterpacket is opened, especially since they were designed to be irreversibly damaged so that the intended recipient could detect any tampering.  Current imaging and repair protocols threaten to destroy or obscure precious letterlocking details and, more damagingly, many institutions open surviving locked letterpackets on request.
 
