@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Anti-Palestinian Bias in <i>The New York Times</i>
+title:  "Anti-Palestinian Bias in <i>The New York Times</i>"
 description: A quantitative study of anti-Palestinian bias in the paper of the record.
 date:   2021-10-01 00:00:00 +0000
 image:  '/images/public_domain_mark_new_york_times_image.jpg'

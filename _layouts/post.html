@@ -15,7 +15,7 @@ layout: default
           </div>
         {% endif %}
 
-        <h1 class="post__title">{{ page.title | escape }}</h1>
+        <h1 class="post__title">{{ page.title }}</h1>
 
         <div class="post__meta">
           <a class="post__author" href="{{site.baseurl}}/about/">{{site.data.settings.author}}</a> – <time class="post__date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y" }}</time>
