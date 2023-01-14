@@ -1,0 +1,34 @@
+<!-- begin blog -->
+<section class="blog section">
+
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="section__info">
+          <div class="section__head">
+            <h2 class="section__title">Featured projects</h2>
+            <a class="section__link" href="{{ '/all-projects' | relative_url }}">View all projects</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row">
+      {% if site.posts.size > 0 %}
+        {% for post in site.posts offset:3 limit:4 %}
+          {% include article.html %}
+        {% endfor %}
+        {% for post in site.posts offset:11 limit:1 %}
+          {% include article.html %}
+        {% endfor %}
+        {% for post in site.posts offset:2 limit:1 %}
+          {% include article.html %}
+        {% endfor %}
+      {% endif %}
+    </div>
+  </div>
+
+</section>
+<!-- end blog -->

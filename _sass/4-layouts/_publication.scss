@@ -1,0 +1,50 @@
+/* Publication */
+.pubitem {
+  margin: 2em 0;
+  line-height: 1em;
+}
+  
+.pubtitle {
+  margin-bottom: 0.5em;
+  line-height: 1.2em;
+  font-weight: bold;
+}
+  
+.pubauthors,
+.pubinfo {
+  font-size: 75%;
+  margin-bottom: 0.75em;
+}
+
+.pubteaser {
+  clear: both;
+}
+  
+.pubteaser a {
+  float: left;
+  margin-right: 2em;
+}
+  
+.pubteaser img {
+  width: 150px;
+  border: 1px solid black;
+}
+
+.publinks {
+  font-size: 75%;
+}
+
+.btn {
+	padding:10px 20px;
+	display:inline-block;
+	border-radius:3px;
+	background:#ccc;
+	font-size:16px;
+	color:#333;
+}
+
+.btn-large {
+	padding:20px 30px;
+	font-size:22px;
+	@extend .btn;
+}

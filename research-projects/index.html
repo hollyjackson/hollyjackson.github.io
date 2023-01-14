@@ -1,0 +1,37 @@
+---
+layout: default
+title: Research
+description: 
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col col-12">
+      <div class="section__info">
+        <div class="section__head">
+          {% if page.title %}
+          <h2 class="section__title">{{ page.title }} Projects</h2>
+          {% endif %}
+          {% if page.description %}
+            <p class="hero__description">{{ page.description }}</p>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row animate">
+    {% if site.posts.size > 0 %}
+      {% for post in site.posts offset:3 limit:4 %}
+        {% include article.html %}
+      {% endfor %}
+      {% for post in site.posts offset:10 limit:2 %}
+        {% include article.html %}
+      {% endfor %}
+    {% endif %}
+  </div>
+</div>
+
+{% include pagination.html %}
