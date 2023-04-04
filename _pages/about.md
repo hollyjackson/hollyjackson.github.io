@@ -11,7 +11,7 @@ image:
 <br>
 # Hey!  I’m Holly.
 
-I'm a  human rights studies Master's student at [Columbia University](https://www.humanrightscolumbia.org/education/graduate/human-rights-studies-ma) concentrating in imperialism and settler-colonialism in the Middle East. I recently graduated from [MIT](https://www.eecs.mit.edu/) with a Bachelor's in electrical engineering and computer science, and this fall, I will be starting a PhD in computer science at [UC Berkeley](https://eecs.berkeley.edu/) under [Ben Recht](https://people.eecs.berkeley.edu/~brecht/).
+I'm a human rights studies Master's student at [Columbia University](https://www.humanrightscolumbia.org/education/graduate/human-rights-studies-ma) concentrating in imperialism and settler-colonialism in the Middle East. I recently graduated from [MIT](https://www.eecs.mit.edu/) with a Bachelor's in electrical engineering and computer science, and this fall, I will be starting a PhD in computer science at [UC Berkeley](https://eecs.berkeley.edu/) under [Ben Recht](https://people.eecs.berkeley.edu/~brecht/).
 
 I work on interdisciplinary applications of computer science, from astrophysics to history to political problems.  I'm interested in computational geometry, physics-based simulation, evolutionary algorithms, GPU programming, numerical modeling, and data science.
 
