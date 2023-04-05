@@ -17,7 +17,7 @@ I work on interdisciplinary applications of computer science, from astrophysics 
 
 My previous work includes quantitatively analyzing [a history of anti-Palestinian bias](https://web.mit.edu/hjackson/www/The_NYT_Distorts_the_Palestinian_Struggle.pdf) in *The New York Times* using machine learning methods and co-developing [an algorithm to virtually read and unfold CT scans of sealed historical letters](https://www.nytimes.com/2021/03/02/science/locked-letters-unfolding.html).  I have worked at Diego Portales University (Santiago, Chile) building [a family tree of stars](https://news.mit.edu/2020/qa-holly-jackson-building-cosmic-family-tree-1214) in the Milky Way and at NASA Ames Research Center [designing lightweight modular truss structures](](https://www.nasa.gov/sites/default/files/atoms/files/techbyteswt17_4.pdf#page=7)).  I have also worked at Adobe Research and in several MIT labs on machine learning and computer graphics applications. 
 
-Please enjoy this evolving portfolio of some my smaller and larger projects!  Feel free to shoot me an email at [hjackson@mit.edu](mailto:hjackson@mit.edu).  You can also check out [my CV](/files/HollyJackson_CV.pdf).
+Please enjoy this evolving portfolio of some my smaller and larger projects!  Feel free to shoot me an email at [holly_jackson@berkeley.edu](mailto:holly_jackson@berkeley.edu).  You can also check out [my CV](/files/HollyJackson_CV.pdf).
 
 <!-- ![Headshot]({{site.baseurl}}/images/headshot.jpg) -->
 
