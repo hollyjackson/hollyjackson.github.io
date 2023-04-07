@@ -24,13 +24,13 @@ description: Class projects, science fair projects, small blogs, etc.
 <div class="container">
   <div class="row animate">
     {% if site.posts.size > 0 %}
-      {% for post in site.posts offset:0 limit:3 %}
+      {% for post in site.posts offset:0 limit:2 %}
         {% include article.html %}
       {% endfor %}
-      {% for post in site.posts offset:7 limit:3 %}
+      {% for post in site.posts offset:6 limit:3 %}
         {% include article.html %}
       {% endfor %}
-      {% for post in site.posts offset:12 limit:3 %}
+      {% for post in site.posts offset:11 limit:3 %}
         {% include article.html %}
       {% endfor %}
     {% endif %}

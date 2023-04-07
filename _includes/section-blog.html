@@ -17,13 +17,13 @@
   <div class="container">
     <div class="row">
       {% if site.posts.size > 0 %}
-        {% for post in site.posts offset:3 limit:4 %}
+        {% for post in site.posts offset:2 limit:4 %}
           {% include article.html %}
         {% endfor %}
-        {% for post in site.posts offset:11 limit:1 %}
+        {% for post in site.posts offset:10 limit:1 %}
           {% include article.html %}
         {% endfor %}
-        {% for post in site.posts offset:2 limit:1 %}
+        {% for post in site.posts offset:1 limit:1 %}
           {% include article.html %}
         {% endfor %}
       {% endif %}
