@@ -7,6 +7,17 @@ permalink: /publications/
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 
+### *The New York Times* distorts the Palestinian struggle: A case study of anti-Palestinian bias in US news coverage of the First and Second Palestinian Intifadas
+<u>Holly Jackson</u>
+<br>
+<span style="color:#57ad68">*Media, War & Conflict*, 2023</span>
+<br><br>
+<a class="button button--pub" href="https://journals.sagepub.com/doi/abs/10.1177/17506352231178148">Paper</a>
+<a class="button button--pub" href="http://web.mit.edu/hjackson/www/The_NYT_Distorts_the_Palestinian_Struggle.pdf">Pre-print</a>
+<a class="button button--pub" href="https://github.com/hollyjackson/NYT_Content_Analysis">Code</a>
+
+<br>
+
 ### Evolution Gym: A Large-Scale Benchmark for Evolving Soft Robots
 [Jagdeep Singh Bhatia](https://jagdeepsb.github.io/), <u>Holly Jackson</u>, [Yunsheng Tian](https://www.yunshengtian.com/), [Jie Xu](http://people.csail.mit.edu/jiex/), [Wojciech Matusik](http://people.csail.mit.edu/wojciech/)
 <br>
@@ -20,17 +31,6 @@ permalink: /publications/
 <a class="button button--pub" href="https://news.mit.edu/2021/system-designing-training-intelligent-soft-robots-1207">MIT News</a>
 <a class="button button--pub" href="https://www.wired.com/story/see-little-robots-get-swole-in-this-virtual-gym/">WIRED</a>
 <a class="button button--pub" href="https://spectrum.ieee.org/robot-design">IEEE Spectrum</a>
-
-<br>
-
-### *The New York Times* Distorts the Palestinian Struggle: A Case Study of Anti-Palestinian Bias in American News Coverage of the First and Second Palestinian Intifadas
-<u>Holly Jackson</u>
-<br>
-<span style="color:#57ad68">Pre-print, 2021</span>
-<br><br>
-<a class="button button--pub" href="http://web.mit.edu/hjackson/www/The_NYT_Distorts_the_Palestinian_Struggle.pdf">Paper</a>
-<a class="button button--pub" href="https://github.com/hollyjackson/NYT_Content_Analysis">Code</a>
-<a class="button button--pub" href="https://twitter.com/h_jackson_/status/1395406943192297481?s=20">Twitter Thread</a>
 
 <br>
 
