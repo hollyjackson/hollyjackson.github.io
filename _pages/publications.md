@@ -14,7 +14,10 @@ permalink: /publications/
 <br><br>
 <a class="button button--pub" href="https://journals.sagepub.com/doi/abs/10.1177/17506352231178148">Paper</a>
 <a class="button button--pub" href="http://web.mit.edu/hjackson/www/The_NYT_Distorts_the_Palestinian_Struggle.pdf">Pre-print</a>
+<a class="button button--pub" href="https://www.asjp.cerist.dz/en/article/229164">Arabic version / العربي *</a>
 <a class="button button--pub" href="https://github.com/hollyjackson/NYT_Content_Analysis">Code</a>
+
+##### \* Translated by Farouk Kouider Moussaoui for the Algerian Journal of Political Science and International Relations / <span dir="rtl" lang="ar" style="font-weight:normal">ترجمه فاروق قويدر موساوي للمجلة الجزائرية للعلوم السياسية والعلاقات الدولية</span>
 
 <br>
 
