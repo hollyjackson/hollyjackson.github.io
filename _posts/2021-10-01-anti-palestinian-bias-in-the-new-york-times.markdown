@@ -11,7 +11,7 @@ tags:   [MIT, interdisciplinary, human rights]
 
 This study is dedicated to the people of Palestine and their struggle for liberation. This work would not be possible without the underappreciated and unrewarded (often punished) labor of countless Palestinians, who have historically called out *The New York Times* and other media outlets that misrepresent their struggle.
 
-My [complete research paper](http://web.mit.edu/hjackson/www/The_NYT_Distorts_the_Palestinian_Struggle.pdf) can be accessed [here](http://web.mit.edu/hjackson/www/The_NYT_Distorts_the_Palestinian_Struggle.pdf).  All associated code is posted free and open-source on [Github](https://github.com/hollyjackson/NYT_Content_Analysis).  In addition, feel free to check out my [Twitter](https://twitter.com/h_jackson_/status/1395406943192297481?s=20) where I have posted these links along with a number of other resources.  Below, I have included a brief summary of my methods and findings.
+My complete research paper, [linked here](https://journals.sagepub.com/doi/full/10.1177/17506352231178148), is published with _Media, War & Conflict_.  A pre-print of the study is also [posted here](](http://web.mit.edu/hjackson/www/The_NYT_Distorts_the_Palestinian_Struggle.pdf)). All associated code is posted free and open-source on [Github](https://github.com/hollyjackson/NYT_Content_Analysis).  Below, I have included a brief summary of my methods and findings.
 
 # Summary
 
