@@ -22,8 +22,8 @@ Below, I have included summaries of each investigation.
 In this study, I aimed to provide data on mentions of Palestinian and Israeli deaths in three mainstream US newspapers (_The New York Times_, _The Washington Post_, and _The Wall Street Journal_) in a few-week period after October 7, 2023. I compared this data to up-to-date casualty counts from the United Nations Office for the Coordination of Humanitarian Affairs (OCHA).  This project was completed live in the first two weeks of the Israeli attacks to keep up with the urgency of events.  My code is available free and open-source on [Github](https://github.com/hollyjackson/casualty_mentions_nyt), along with a comprehensive write-up of the methodologies.
 
 All illustrations of the data were designed and executed by [Mona Chalabi](https://monachalabi.com/), a Pultizer-prize-winning writer and illustrator.  Snapshots from this research were posted on Mona's Instagram at the following links:
-* [Post](https://www.instagram.com/p/Cy8iWSfukzE/) by Mona Chalabi (@monachalabi) on October 28, 2023.
-* [Post](https://www.instagram.com/p/Cyl9HR7O4ap/) by Mona Chalabi (@monachalabi) on October 19, 2023.
+* [Post](https://www.instagram.com/p/Cy8iWSfukzE/) by Mona Chalabi ([@monachalabi](https://www.instagram.com/monachalabi/)) on October 28, 2023.
+* [Post](https://www.instagram.com/p/Cyl9HR7O4ap/) by Mona Chalabi ([@monachalabi](https://www.instagram.com/monachalabi/)) on October 19, 2023.
 
 Below, I provide an overview of the entire pipeline to produce the results.
 
